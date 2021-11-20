@@ -1,11 +1,11 @@
 ﻿![alt text](https://raw.githubusercontent.com/dremin/retrobar/master/retrobar-preview.png "RetroBar")
 
-# RetroBar
+# ClassicTaskbar
 [![Current release](https://img.shields.io/github/v/release/dremin/RetroBar)](https://github.com/dremin/RetroBar/releases/latest) ![Build status](https://github.com/dremin/RetroBar/workflows/RetroBar/badge.svg)
 
-Pining for simpler times? RetroBar teleports you back in time by replacing your modern Windows taskbar with the classic Windows 95, 98, Me, 2000, or XP style.
+Pining for simpler times? ClassicTaskbar teleports you back in time by replacing your modern Windows taskbar with the classic Windows 95, 98, Me, 2000, or XP style.
 
-RetroBar is based on the [ManagedShell](https://github.com/cairoshell/ManagedShell) library for great compatibility and performance.
+ClassicTaskbar is based on the [ManagedShell](https://github.com/cairoshell/ManagedShell) library for great compatibility and performance.
 
 ## Requirements
 - Windows 7 SP1, Windows 8.1, Windows 10 or later
@@ -28,7 +28,8 @@ RetroBar is based on the [ManagedShell](https://github.com/cairoshell/ManagedShe
   - Windows 95-98
   - Windows Me
   - Windows 2000
-  - Windows XP (Blue and Classic)
+  - Windows XP
+  - Windows Server 2003
 - Support for the following languages:
   - English
   - Spanish (español)
