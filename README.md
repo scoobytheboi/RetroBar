@@ -40,6 +40,6 @@ ClassicTaskbar is based on the [ManagedShell](https://github.com/cairoshell/Mana
   - Hungarian (magyar)
 
 ## Custom themes
-RetroBar supports custom themes. To use custom themes, create a `Themes` directory in the same directory as `RetroBar.exe`, and place valid `.xaml` theme files there.
+ClassicTaskbar supports custom themes. To use custom themes, create a `Themes` directory in the same directory as `ClassicTaskbar.exe`, and place valid `.xaml` theme files there.
 
 Themes use the XAML `ResourceDictionary` format. [View the included example themes](https://github.com/dremin/RetroBar/tree/master/RetroBar/Themes) to get started.
