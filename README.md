@@ -1,7 +1,7 @@
 ﻿![alt text](https://raw.githubusercontent.com/dremin/retrobar/master/retrobar-preview.png "RetroBar")
 
 # ClassicTaskbar
-[![Current release](https://img.shields.io/github/v/release/dremin/RetroBar)](https://github.com/dremin/RetroBar/releases/latest) ![Build status](https://github.com/dremin/RetroBar/workflows/RetroBar/badge.svg)
+Download: file:///C:/Users/jacob/Downloads/ClassicTaskbar.exe
 
 Pining for simpler times? ClassicTaskbar teleports you back in time by replacing your modern Windows taskbar with the classic Windows 95, 98, Me, 2000, or XP style.
 
